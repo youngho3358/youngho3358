@@ -12,6 +12,7 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" />
           <br/><br/>
           <h4>Database Skills</h4>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
@@ -20,12 +21,15 @@
           <h4>Front End Skills</h4>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"><br/>
+        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=flat&logo=jquery&logoColor=white" />
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
           <br/><br/>
           <h4>Collaboration Tool Skills</h4>
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"><br/>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=flat&logo=notion&logoColor=white" />
           <br/><br/>
           </div>
     </div>
