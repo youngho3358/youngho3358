@@ -40,7 +40,10 @@
          <a href=mailto:youngho3358@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:youngho3358@gmail.com"> </a><br/>
           </div>  <br> 
     <div align= "center"> 
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Language </h2> <br>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngho3358&layout=compact)](https://github.com/youngho3358/github-readme-stats)
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2> <br>
+        <a>
+            <img src="https://github-readme-stats.vercel.app/api?username=youngho3358&&theme=highcontrast&show_icons=true" width="42%"><br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngho3358&theme=highcontrast&show_icons=true">
+        </a>
     </div> 
     </div>
